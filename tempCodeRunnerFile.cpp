@@ -1,0 +1,1 @@
+ toBianry(n / 2);
